@@ -12,5 +12,7 @@
 - [Resources](cmake/resources.md)
 
 ## JUCE
-- [Conferences](juce/conferences.md)
 - [Resources](juce/resources.md)
+
+## Qt
+- [Resources](qt/resources.md)

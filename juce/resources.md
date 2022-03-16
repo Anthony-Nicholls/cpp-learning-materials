@@ -1,5 +1,7 @@
 # Resources
 
+- [Audio Developer Conference Website](https://audio.dev)
+- [Audio Developer Conference YouTube Channel](https://www.youtube.com/c/JUCElibrary)
 - [Audio Programmer Discord Server](https://www.theaudioprogrammer.com/community/discord)
 - [Audio Programmer Monthly Meet-ups](https://www.theaudioprogrammer.com/community/meetups)
 - [Audio Programmer Podcast](https://www.theaudioprogrammer.com/podcast)
