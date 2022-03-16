@@ -9,3 +9,5 @@
 - [Qt Coding Style](https://wiki.qt.io/Qt_Coding_Style)
 - [Qt GitHub](https://github.com/qt)
 - [Qt Learning Hub](https://resources.qt.io/learning-hub)
+- [Qt On-Demand](https://resources.qt.io/on-demand?)
+- [Qt World Summit](https://www.qt.io/qtws21)
