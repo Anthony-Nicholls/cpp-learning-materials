@@ -1,4 +1,4 @@
-# Catch2
+# Resources
 
 - [Catch2 Examples](https://github.com/catchorg/Catch2/blob/devel/docs/list-of-examples.md)
 - [Catch2 GitHub](https://github.com/catchorg/Catch2)

@@ -1,4 +1,4 @@
-# JUCE
+# Resources
 
 - [Audio Programmer Discord Server](https://www.theaudioprogrammer.com/community/discord)
 - [Audio Programmer Monthly Meet-ups](https://www.theaudioprogrammer.com/community/meetups)

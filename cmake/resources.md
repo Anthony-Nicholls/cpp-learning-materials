@@ -1,4 +1,4 @@
-# CMake
+# Resources
 
 - [CMake Format Documentation](https://cmake-format.readthedocs.io/en/latest)
 - [CMake Format GitHub](https://github.com/cheshirekow/cmake_format)
