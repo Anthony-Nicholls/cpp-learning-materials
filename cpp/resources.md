@@ -1,6 +1,5 @@
 # Resources
 
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/c++/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [C++ Super-FAQ](https://isocpp.org/faq)
 - [C++ Insights](https://cppinsights.io)
@@ -11,6 +10,7 @@
 - [Fluent C++](https://www.fluentcpp.com)
 - [Get Started](https://isocpp.org/get-started)
 - [#Include <C++> Discord Server](https://www.includecpp.org/discord/)
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/c++/)
 - [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
 - [Quick C++ Benchmark](https://quick-bench.com)
 - [Standardization](https://isocpp.org/std)
