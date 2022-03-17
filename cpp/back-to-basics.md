@@ -17,6 +17,7 @@ Running since 2019, [Back to Basics](https://cppcon.org/b2b/) is a part of [CppC
 - [Object-Oriented Programming](https://youtu.be/Ou5WsJzn7Ws)
 - [Overload Resolution](https://youtu.be/b5Kbzgx1w9A)
 - [Pointers](https://youtu.be/0zd8eznWv4k)
+- [Smart Pointers and RAII](https://youtu.be/07rJOzFRs6M)
 - [Special Member Functions](https://youtu.be/9BM5LAvNtus)
 - [Templates (part 1 of 2)](https://youtu.be/XN319NYEOcE)
 - [Templates (part 2 of 2)](https://youtu.be/2Y9XbltAfXs)
