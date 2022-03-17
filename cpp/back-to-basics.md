@@ -4,12 +4,12 @@ Running since 2019, [Back to Basics](https://cppcon.org/b2b/) is a part of [CppC
 
 ## 2021
 
-- [Debugging Techniques](https://youtu.be/M7fV-eQwxrY)
 - [Casting](https://youtu.be/2h2hdRqRIRk)
 - [Classic STL](https://youtu.be/tXUXl_RzkAk)
+- [Compiling and Linking](https://youtu.be/cpkDQaYttR4)
 - [Concurrency](https://youtu.be/pfIC-kle4b0)
 - [const and constexpr](https://youtu.be/tA6LbPyYdco)
-- [Compiling and Linking](https://youtu.be/cpkDQaYttR4)
+- [Debugging Techniques](https://youtu.be/M7fV-eQwxrY)
 - [Designing Classes (part 1 of 2)](https://youtu.be/motLOioLJfg)
 - [Designing Classes (part 2 of 2)](https://youtu.be/O65lEiYkkbc)
 - [Lambdas](https://youtu.be/IgNUBw3vcO4)
@@ -41,8 +41,8 @@ Running since 2019, [Back to Basics](https://cppcon.org/b2b/) is a part of [CppC
 
 ## 2019
 
-- [Const as a Promise](https://youtu.be/NZtr93iL3R0)
 - [Best Parts of C++](https://youtu.be/iz5Qx18H6lg)
+- [Const as a Promise](https://youtu.be/NZtr93iL3R0)
 - [Exception Handling and Exception Safety](https://youtu.be/W6jZKibuJpU)
 - [Function and Class Templates](https://youtu.be/LMP_sxOaz6g)
 - [Lambdas from Scratch](https://youtu.be/3jCOwajNch0)
