@@ -4,7 +4,9 @@
 
 ## C++ 23
 
+- [C++23 Standard Library Preview](https://youtu.be/ySsqD2e5uRQ)
 - [Features, Support, and Defects](https://en.cppreference.com/w/cpp/20)
+- [What's new in C++ 23 (Twitter thread)](https://twitter.com/TartanLlama/status/1505918874583248900)
 
 ## C++ 20
 
