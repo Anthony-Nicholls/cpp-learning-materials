@@ -5,7 +5,14 @@ Running since 2019, [Back to Basics](https://cppcon.org/b2b/) is a part of [CppC
 ## 2022
 
 - [API Design](https://youtu.be/zL-vn_pGGgY)
+- [Debugging](https://youtu.be/YzIBwqWC6EM)
+- [Move Semantics](https://youtu.be/knEaMpytRMA)
 - [RAII](https://youtu.be/Rfu06XAhx90)
+- [Smart Pointers](https://youtu.be/YokY6HzLkXs)
+- [Templates](https://youtu.be/HqsEHG0QJXU)
+- [Testing](https://youtu.be/SAM4rWaIvUQ)
+- [Value Categories](https://youtu.be/tH0Z2OvHAd8)
+- [Value Semantics](https://youtu.be/G9MxNwUoSt0)
 
 ## 2021
 
