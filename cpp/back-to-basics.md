@@ -2,6 +2,11 @@
 
 Running since 2019, [Back to Basics](https://cppcon.org/b2b/) is a part of [CppCon](https://cppcon.org) dedicated to _“What every C++ programmer should know about…“_. Below are links to _all_ the Back to Basics videos uploaded to the [CppCon YouTube Channel](https://www.youtube.com/user/CppCon), enjoy!
 
+## 2022
+
+- [API Design](https://youtu.be/zL-vn_pGGgY)
+- [RAII](https://youtu.be/Rfu06XAhx90)
+
 ## 2021
 
 - [Casting](https://youtu.be/2h2hdRqRIRk)
